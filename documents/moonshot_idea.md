@@ -1,5 +1,8 @@
 # Moonshot Idea
 
+<details>
+<summary>Table Of Content </summary>
+
 - [Moonshot Idea](#moonshot-idea)
   - [Document Overview](#document-overview)
   - [Ideas](#ideas)
@@ -14,6 +17,8 @@
       - [AI Point of View](#ai-point-of-view)
         - [Do you think such a project could be beneficial?](#do-you-think-such-a-project-could-be-beneficial)
         - [Why could it not work?](#why-could-it-not-work)
+  
+</details>
 
 ## Document Overview
 
@@ -28,7 +33,7 @@ The first Moonshot idea is a visionary concept for a highly realistic flight sim
 #### Communication
 
 <details>
-<summary> 
+<summary>
 22nd November 2023
 </summary> <br>
 
@@ -64,7 +69,7 @@ Thibaud Marlier
 #### Response
 
 <details>
-<summary> 
+<summary>
 Frank Jeannin's response
 </summary> <br>
 
@@ -92,7 +97,7 @@ Kind regards.
 
 <details>
 
-<summary> 
+<summary>
 24th November 2023
 </summary> <br>
 
