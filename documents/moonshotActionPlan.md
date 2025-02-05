@@ -2,22 +2,31 @@
 
 ## Specific Short-Term Goals
 
-1. **Identify a new moonshot idea**
-   - The idea should be innovative, impactful, and feasible.
-2. **Ensure the idea follows the SMART criteria**
-   - **Specific**: Clearly define what the idea aims to achieve.
-   - **Measurable**: Establish key metrics to track progress.
-   - **Achievable**: Assess feasibility given current resources and skills.
-   - **Relevant**: Align the idea with personal or professional goals.
-   - **Time-bound**: Set a timeline for execution.
-3. **Develop a Business Model Canvas**
-   - Define key partners, activities, value propositions, customer segments, and revenue streams.
-4. **Create a Detailed Business Model**
-   - Conduct a feasibility study.
-   - Identify potential funding sources.
-   - Outline long-term sustainability plans.
-   - Define competitors.
-   - Deepen the market analysis.
+- **Identify a new moonshot idea**
+  - The idea should be innovative, impactful, and feasible.
+
+---
+
+- **Ensure the idea follows the SMART criteria**
+  - **Specific**: Clearly define what the idea aims to achieve.
+  - **Measurable**: Establish key metrics to track progress.
+  - **Achievable**: Assess feasibility given current resources and skills.
+  - **Relevant**: Align the idea with personal or professional goals.
+  - **Time-bound**: Set a timeline for execution.
+
+---
+
+- **Develop a Business Model Canvas**
+  - Define key partners, activities, value propositions, customer segments, and revenue streams.
+
+---
+
+- **Create a Detailed Business Model**
+  - Conduct a feasibility study.
+  - Identify potential funding sources.
+  - Outline long-term sustainability plans.
+  - Define competitors.
+  - Deepen the market analysis.
 
 ## Concrete Actions Starting Tomorrow
 
@@ -37,6 +46,8 @@
 - Engage in stimulating activities (e.g., watching documentaries, reading books, or listening to podcasts).
 - Discuss potential ideas with peers and mentors for fresh perspectives.
 
+---
+
 ### **Obstacle: The Idea is Not SMART**
 
 **Solution:**
@@ -45,6 +56,8 @@
 - If it doesn’t fit, refine the concept or pivot to a more achievable one.
 - Seek feedback from experienced professionals to adjust feasibility.
 
+---
+
 ### **Obstacle: Lack of Industry Contacts**
 
 **Solution:**
@@ -52,6 +65,8 @@
 - Leverage LinkedIn and professional networks to identify relevant contacts.
 - Engage with online communities, industry events, and conferences.
 - Reach out to experts for advice or potential collaborations.
+
+---
 
 ### **Obstacle: Starting Professional Life**
 
