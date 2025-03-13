@@ -101,7 +101,7 @@ The goal is to minimize operational costs, improve efficiency, and enhance passe
 - **Resource Optimization**: Airports can allocate resources more effectively based on weather forecasts.
 - **Reduced Carbon Footprint**: More fuel-efficient routes contribute to sustainability.
 - **Scalability**: AI models can extend to other industries like logistics and emergency services.
-
+t
 ##### Possible Challenges
 
 - **Data Quality & Availability**: Not all regions have reliable meteorological data.
