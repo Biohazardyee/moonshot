@@ -11,12 +11,17 @@
       - [Response](#response)
       - [Rescaling](#rescaling)
       - [Article Summary](#article-summary)
-    - [Second Idea - Ongoing](#second-idea---ongoing)
+    - [Second Idea - Terminated](#second-idea---terminated)
       - [Key Objectives](#key-objectives)
       - [AI Perspective](#ai-perspective)
         - [Potential Benefits](#potential-benefits)
         - [Possible Challenges](#possible-challenges)
-    - [Conclusion](#conclusion)
+      - [Conclusion](#conclusion)
+      - [Termination Reasons](#termination-reasons)
+    - [Third Idea - Ongoing](#third-idea---ongoing)
+    - [**Off-Grid Navigation System**](#off-grid-navigation-system)
+      - [**Key Features \& Functionality**](#key-features--functionality)
+      - [**🌍 Use Cases**](#-use-cases)
 
 ---
 
@@ -40,22 +45,22 @@ The first Moonshot idea was to develop a highly realistic flight simulator for b
 **22nd November 2023**  
 I contacted Franck Jeannin with the following message:
 
-> *Good evening Franck,*  
-> *Apologies for reaching out at this late hour. I wanted to discuss my Moonshot idea.*  
-> *My concept involves creating an incredibly realistic flight simulator. I envision a simulator that strives for absolute authenticity, modeling airplanes with embedded systems, employing realistic physics, and mirroring real aircraft construction and behavior. Achieving this would require extensive documentation and input from pilots, but I believe it's achievable.*  
-> *Moreover, I'm considering implementing a detailed map that mirrors our current world, similar to Microsoft Flight Simulator, synchronized with real-time weather data or allowing user modifications.*  
-> *This concept extends to a mission editor, allowing users to alter various parameters like weather, locations, and AI behaviors.*  
-> *To elevate the experience further, I'm keen on integrating VR technology for deeper immersion. Additionally, I envision incorporating a motion platform to replicate the G-forces experienced in an airplane, adding an extra layer of realism.*  
-> *This simulator would primarily serve military purposes as a pilot training tool while also catering to aviation enthusiasts.*  
-> *I would greatly appreciate your thoughts on this project.*  
+> _Good evening Franck,_  
+> _Apologies for reaching out at this late hour. I wanted to discuss my Moonshot idea._  
+> _My concept involves creating an incredibly realistic flight simulator. I envision a simulator that strives for absolute authenticity, modeling airplanes with embedded systems, employing realistic physics, and mirroring real aircraft construction and behavior. Achieving this would require extensive documentation and input from pilots, but I believe it's achievable._  
+> _Moreover, I'm considering implementing a detailed map that mirrors our current world, similar to Microsoft Flight Simulator, synchronized with real-time weather data or allowing user modifications._  
+> _This concept extends to a mission editor, allowing users to alter various parameters like weather, locations, and AI behaviors._  
+> _To elevate the experience further, I'm keen on integrating VR technology for deeper immersion. Additionally, I envision incorporating a motion platform to replicate the G-forces experienced in an airplane, adding an extra layer of realism._  
+> _This simulator would primarily serve military purposes as a pilot training tool while also catering to aviation enthusiasts._  
+> _I would greatly appreciate your thoughts on this project._
 
 #### Response
 
 Franck Jeannin responded:
 
-> *Hi Thibaud, first of all, congratulations on your well-written text.*  
-> *The project is extremely ambitious (possibly too ambitious), as existing flight simulators are already very advanced and developed by teams of hundreds of developers.*  
-> *I think you should keep the domain but narrow it down. The aspect of real-time weather data stood out to me. Maybe that is something you could focus on.*  
+> _Hi Thibaud, first of all, congratulations on your well-written text._  
+> _The project is extremely ambitious (possibly too ambitious), as existing flight simulators are already very advanced and developed by teams of hundreds of developers._  
+> _I think you should keep the domain but narrow it down. The aspect of real-time weather data stood out to me. Maybe that is something you could focus on._
 
 #### Rescaling
 
@@ -65,7 +70,7 @@ After reflecting on Franck’s feedback, I realized the project’s scale was to
 
 On **24th November 2023**, I shared an article from Tomorrow.io about AI-driven weather forecasting's impact on aviation:
 
-> *The article highlights how AI-based weather forecasting improves aviation operations by enhancing safety, efficiency, and reliability.*  
+> _The article highlights how AI-based weather forecasting improves aviation operations by enhancing safety, efficiency, and reliability._
 
 Key takeaways:
 
@@ -76,7 +81,7 @@ Key takeaways:
 
 ---
 
-### Second Idea - Ongoing
+### Second Idea - Terminated
 
 The refined Moonshot idea is to create an **AI-powered weather forecasting system** leveraging real-time meteorological data to deliver highly accurate, short- and long-term weather predictions. This system is designed for:
 
@@ -101,7 +106,7 @@ The goal is to minimize operational costs, improve efficiency, and enhance passe
 - **Resource Optimization**: Airports can allocate resources more effectively based on weather forecasts.
 - **Reduced Carbon Footprint**: More fuel-efficient routes contribute to sustainability.
 - **Scalability**: AI models can extend to other industries like logistics and emergency services.
-t
+
 ##### Possible Challenges
 
 - **Data Quality & Availability**: Not all regions have reliable meteorological data.
@@ -115,7 +120,45 @@ t
 
 ---
 
-### Conclusion
+#### Conclusion
 
 The project holds significant potential for improving aviation safety, efficiency, and sustainability. While challenges exist, continued advancements in AI and meteorology could help overcome many obstacles, making this system a game-changer in aviation weather forecasting.
 
+#### Termination Reasons
+
+### Third Idea - Ongoing
+
+This idea is to develop an Off-Grid Navigation system. It will be an onboard navigation system that works without GPS usage or WiFi usage by using vectorial maps offline and navigation captors.
+The system will use barometers, gyroscope, magnetometer, IMU (Inertial Measurement Unit), accelerometer, altimeter. to calculate precisely the location of the user.
+It must include a visual interface to show on a map the location of the person. It should take on the map a user input that defines the original location of the user. And change the location of the user according to the changes detected by the hardware. Implementation of a dead reckoning algorith to recalculate the position.
+
+Here’s an improved and clearer version of your project description:
+
+---
+
+Here’s your updated project description with the hybrid positioning system included:
+
+---
+
+### **Off-Grid Navigation System**
+
+This project aims to develop an **autonomous onboard navigation system** that operates **without GPS or internet connectivity**. Instead, it will rely on **offline vector maps** and **navigation sensors** to accurately determine and track the user’s position in real time.
+
+#### **Key Features & Functionality**
+
+- **Positioning Without GPS**: Uses **barometer, gyroscope, magnetometer, IMU (Inertial Measurement Unit), accelerometer, and altimeter** to calculate the user's precise location.
+- **Offline Mapping**: Displays the user's location on **vector-based maps**, stored locally for full offline functionality.
+- **Hybrid Initial Positioning**:
+  - The user manually selects an approximate starting location on the map.
+  - The system refines this position using **altitude data, terrain matching, compass orientation, and dead reckoning** to improve accuracy.
+- **Real-Time Position Tracking**: The system continuously updates the user's position based on sensor data.
+- **Dead Reckoning Algorithm**: Implements **dead reckoning** to estimate movement and adjust the user’s location dynamically.
+- **Energy-Efficient & Standalone**: Designed for use in **remote environments**, where power and connectivity are limited.
+
+#### **🌍 Use Cases**
+
+- **Hiking & Outdoor Exploration**: Navigation in remote locations where GPS signals are weak or unavailable.
+- **Emergency & Search Operations**: Helps rescue teams track movement in underground or disaster-stricken areas.
+- **Military & Security Applications**: Provides stealth navigation without reliance on external signals.
+
+This **hybrid approach** ensures **a more accurate initial position**, allowing the system to provide **precise, self-sufficient navigation** in environments where traditional GPS-based systems fail. 🚀
