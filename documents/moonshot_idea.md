@@ -18,10 +18,16 @@
         - [Possible Challenges](#possible-challenges)
       - [Conclusion](#conclusion)
       - [Termination Reasons](#termination-reasons)
-    - [Third Idea - Ongoing](#third-idea---ongoing)
-    - [**Off-Grid Navigation System**](#off-grid-navigation-system)
-      - [**Key Features \& Functionality**](#key-features--functionality)
-      - [**🌍 Use Cases**](#-use-cases)
+    - [Third Idea - Terminated](#third-idea---terminated)
+    - [Off-Grid Navigation System](#off-grid-navigation-system)
+      - [Key Features \& Functionality](#key-features--functionality)
+      - [Use Cases](#use-cases)
+    - [Fourth Idea – _Ongoing_](#fourth-idea--ongoing)
+      - [Core Objective](#core-objective)
+      - [Key Features \& Functionality](#key-features--functionality-1)
+      - [Use Cases](#use-cases-1)
+      - [Strategic Advantages](#strategic-advantages)
+      - [Vision Statement](#vision-statement)
 
 ---
 
@@ -58,7 +64,7 @@ I contacted Franck Jeannin with the following message:
 
 Franck Jeannin responded:
 
-> _Hi Thibaud, first of all, congratulations on your well-written text._  
+> _Hi Thibaud, first, congratulations on your well-written text._  
 > _The project is extremely ambitious (possibly too ambitious), as existing flight simulators are already very advanced and developed by teams of hundreds of developers._  
 > _I think you should keep the domain but narrow it down. The aspect of real-time weather data stood out to me. Maybe that is something you could focus on._
 
@@ -115,7 +121,7 @@ The goal is to minimize operational costs, improve efficiency, and enhance passe
 - **Adoption & Integration**: Gaining airline and regulatory trust is a slow process.
 - **Regulatory & Security Concerns**: Aviation regulations and cybersecurity risks must be addressed.
 - **Cost & Infrastructure**: A global data network is expensive to build and maintain.
-- **Environmental Variability**: Unpredictable phenomena (e.g., microbursts) may not be accurately forecasted.
+- **Environmental Variability**: Unpredictable phenomena (e.g., microburst) may not be accurately forecasted.
 - **Over-Reliance on AI**: Pilots and planners must retain independent situational awareness.
 
 ---
@@ -126,25 +132,19 @@ The project holds significant potential for improving aviation safety, efficienc
 
 #### Termination Reasons
 
-### Third Idea - Ongoing
+Project would be too long to finalize and currently has tough competition coming from Google.
 
-This idea is to develop an Off-Grid Navigation system. It will be an onboard navigation system that works without GPS usage or WiFi usage by using vectorial maps offline and navigation captors.
-The system will use barometers, gyroscope, magnetometer, IMU (Inertial Measurement Unit), accelerometer, altimeter. to calculate precisely the location of the user.
-It must include a visual interface to show on a map the location of the person. It should take on the map a user input that defines the original location of the user. And change the location of the user according to the changes detected by the hardware. Implementation of a dead reckoning algorith to recalculate the position.
+### Third Idea - Terminated
 
-Here’s an improved and clearer version of your project description:
+This idea is to develop an Off-Grid Navigation system. It will be an onboard navigation system that works without GPS usage or Wi-Fi usage by using vectorial maps offline and navigation captors.
+The system will use barometers, gyroscope, magnetometer, IMU (Inertial Measurement Unit), accelerometer, altimeter. To calculate precisely the location of the user.
+It must include a visual interface to show on a map the location of the person. It should take on the map a user input that defines the original location of the user. And change the location of the user according to the changes detected by the hardware. Implementation of a dead reckoning algorithm to recalculate the position.
 
----
-
-Here’s your updated project description with the hybrid positioning system included:
-
----
-
-### **Off-Grid Navigation System**
+### Off-Grid Navigation System
 
 This project aims to develop an **autonomous onboard navigation system** that operates **without GPS or internet connectivity**. Instead, it will rely on **offline vector maps** and **navigation sensors** to accurately determine and track the user’s position in real time.
 
-#### **Key Features & Functionality**
+#### Key Features & Functionality
 
 - **Positioning Without GPS**: Uses **barometer, gyroscope, magnetometer, IMU (Inertial Measurement Unit), accelerometer, and altimeter** to calculate the user's precise location.
 - **Offline Mapping**: Displays the user's location on **vector-based maps**, stored locally for full offline functionality.
@@ -155,10 +155,107 @@ This project aims to develop an **autonomous onboard navigation system** that op
 - **Dead Reckoning Algorithm**: Implements **dead reckoning** to estimate movement and adjust the user’s location dynamically.
 - **Energy-Efficient & Standalone**: Designed for use in **remote environments**, where power and connectivity are limited.
 
-#### **🌍 Use Cases**
+#### Use Cases
 
 - **Hiking & Outdoor Exploration**: Navigation in remote locations where GPS signals are weak or unavailable.
 - **Emergency & Search Operations**: Helps rescue teams track movement in underground or disaster-stricken areas.
 - **Military & Security Applications**: Provides stealth navigation without reliance on external signals.
 
 This **hybrid approach** ensures **a more accurate initial position**, allowing the system to provide **precise, self-sufficient navigation** in environments where traditional GPS-based systems fail. 🚀
+
+### Fourth Idea – _Ongoing_
+
+This Moonshot project aims to design a **centralized and intelligent command interface** for managing the deployment of **loitering munitions** or **autonomous drones** on the modern battlefield. The system is inspired by current operational tactics in recent conflicts, particularly the **separation between target acquisition and engagement**, allowing for smarter, faster, and more efficient decision-making.
+
+---
+
+#### Core Objective
+
+To develop an intelligent, modular platform that:
+
+- **Aggregates real-time battlefield data** from various reconnaissance systems (drones, sensors, satellites).
+- **Analyze targets** based on type, distance, threat level, and priority.
+- **Suggests optimal drone or munition deployment** for neutralization.
+- **Assists human operators** in quickly assigning missions while reducing decision-making fatigue.
+
+This system acts as a **“Command Hub for Precision Strikes,”** delivering the right payload to the right target at the right time.
+
+---
+
+#### Key Features & Functionality
+
+- **Tactical Map Interface**:
+
+  - Interactive, real-time map displaying all friendly and enemy units, updated with live data feeds.
+  - AR/VR support for immersive battlefield visualization.
+
+- **Automated Target Aggregation**:
+
+  - Collects and centralizes enemy positions and threats from autonomous drones and sensors.
+  - Integrates battlefield telemetry, geolocation, and terrain data.
+
+- **AI-Powered Target Analysis**:
+
+  - Evaluates each target’s risk and strategic importance.
+  - Prioritize targets based on mission goals and threat level.
+
+- **Weapon System Recommendation Engine**:
+
+  - Suggests the most suitable loitering munition or drone based on range, payload, mission type, and available inventory.
+  - Takes into account environmental factors like wind, terrain, and obstacles.
+
+- **Human-in-the-Loop Architecture**:
+
+  - Keeps the operator in control at all times.
+  - Offers **suggestions**, not autonomous decisions—ensuring ethical and lawful warfare.
+
+- **Cross-Platform Compatibility**:
+
+  - Usable on standard **PCs**, **military tablets**, or **AR/VR headsets** for enhanced field deployment.
+
+---
+
+#### Use Cases
+
+- **Military Operations**:
+
+  - Accelerates and optimizes drone strike decisions on dynamic front lines.
+  - Reduces cognitive load on human operators during high-stress missions.
+
+- **Border Surveillance & Defense**:
+
+  - Monitors and responds to threats in remote or hostile regions in real time.
+
+- **Disaster Zone Reconnaissance** _(adaptable use-case)_:
+
+  - Autonomous systems could be used for search & rescue coordination in areas inaccessible by humans.
+
+---
+
+#### Strategic Advantages
+
+- **Increased Strike Efficiency**:
+
+  - Maximizes resource use by pairing the right weapon with the right threat.
+
+- **Reduced Latency**:
+
+  - Faster engagement decisions through automation and real-time data fusion.
+
+- **Enhanced Situational Awareness**:
+
+  - Operators view a live battlefield overview enriched by AI-assisted recommendations.
+
+- **Modular Design**:
+
+  - The system can scale from small unit operations to large-scale coordinated campaigns.
+
+- **Ethical Integration**:
+
+  - Always keeps a human decision-maker in the loop, respecting rules of engagement and ethical warfare standards.
+
+---
+
+#### Vision Statement
+
+The project envisions a future where **autonomous systems and human intelligence collaborate**, not compete. With this interface, the battlefield becomes a **networked, data-driven environment**, where **every strike is strategic, deliberate, and accountable**—ensuring tactical dominance without compromising control or ethics.
